@@ -1,6 +1,13 @@
 # ⚡ TBF-OSINT v3.0 ULTIMATE
 
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)
+![Termux](https://img.shields.io/badge/Termux-Supported-green?style=for-the-badge&logo=android)
+![License](https://img.shields.io/badge/License-GPL--3.0-red?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
+
 Powerful multi-threaded OSINT, GEO-IP Lookup, Port Scanner & Username Recon tool built with Python and Rich UI. Designed to work smoothly in Termux without Root privileges.
+
+---
 
 ## 🚀 Features
 - 🌐 **GEO-IP Intelligence:** Detailed physical location, ISP, and organizational info for any IP or domain.
@@ -9,8 +16,12 @@ Powerful multi-threaded OSINT, GEO-IP Lookup, Port Scanner & Username Recon tool
 - 🎨 **Rich Terminal Interface:** Animated multi-bar startup checks, clean tables, and neon formatting.
 - 💾 **Report Generator:** Export OSINT findings into local text files.
 
+---
+
 ## ⚠️ Disclaimer
 This tool is created for educational purposes, security research, and authorized testing only. The developer assumes no responsibility or liability for any misuse or damage caused by this program. Users are solely responsible for complying with all applicable local, state, and federal laws regarding network security and privacy.
+
+---
 
 ## 🛠 Installation & Usage
 
@@ -26,3 +37,4 @@ pip install -r requirements.txt
 
 # Run TBF-OSINT
 python tbf_osint.py
+
